@@ -49,7 +49,7 @@ You can find his studies and examples to learn the Java programming language in 
 
 [Java Dersi 24 : Metodları Anlamak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/methods/src/methods/Main.java)
 
-[Java Dersi 25 : Parametreli Metodları Anlamak]
+[Java Dersi 25 : Parametreli Metodları Anlamak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/methods2/src/methods2/Main.java)
 
 [Java Dersi 26 : Variable Arguments ile Çalışmak]
 
