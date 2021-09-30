@@ -77,6 +77,6 @@ You can find his studies and examples to learn the Java programming language in 
 
 [Java Dersi 44 : Demo : Çoklu İmplementasyonu Kavramak]()
 
-[Java Dersi 45 : Composition - Inner Class ve Static]()
+[Java Dersi 45 : Composition - Inner Class ve Static]
 
 
