@@ -1,9 +1,21 @@
 # Java 
 You can find his studies and examples to learn the Java programming language in this repository.
 
-[Java](#)
+[Java Dersi 1 : Giriş ve Tanıtım](https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=2)
 
-[Java](#)
+[Java Dersi 2 : Hangi IDE'yi Kullanıyoruz ?](https://www.youtube.com/watch?v=joOg5R_EwBk&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=3)
+
+[Java Dersi 3 : Java SE 11 SDK Kurulumu 1](https://www.youtube.com/watch?v=E9Xc1PK0kp4&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=4)
+
+[Java Dersi 4 : IntelliJ Idea Kurulumu](https://www.youtube.com/watch?v=B_1HxhAYvVg&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=5)
+
+[Java Dersi 5 : Hello World Uygulaması ile Başlayalım](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/intro/src/intro/Main.java)
+
+[Java Dersi 6 : Değişkenler ve Değişken Kullanım İhtiyacı](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/variables/src/variables/Main.java)
+
+[Java Dersi 7 : Temel Veri Tipleriyle Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/dataTypes/src/dataTypes/Main.java)
+
+[Java Dersi 8 : If Bloklarıyla Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/conditionals/src/conditionals/Main.java)
 
 [Java Dersi 9 : ReCap Demo 1 En Büyük Sayı Hangisi](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/reCapDemo1/src/reCapDemo1/Main.java)
 
