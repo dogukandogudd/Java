@@ -1,6 +1,5 @@
 package methods2;
 
-import java.security.MessageDigest;
 
 public class Main {
 
@@ -10,11 +9,12 @@ public class Main {
 		System.out.println(newMessage);
 		int sayi = topla(5,7);
 		System.out.println(sayi);
+		System.out.println(message);
 
 	}
 	
 	public static void ekle() {
-		System.out.println("Added");
+		System.out.println("Added");		
 	}
 	
 	public static void sil() {
