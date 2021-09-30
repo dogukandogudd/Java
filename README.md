@@ -47,7 +47,7 @@ You can find his studies and examples to learn the Java programming language in 
 
 [Java Dersi 23 : Mini Proje 5 - Sayı Bulma](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/findNumbers/src/findNumbers/Main.java)
 
-[Java Dersi 24 : Metodları Anlamak]
+[Java Dersi 24 : Metodları Anlamak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/methods/src/methods/Main.java)
 
 [Java Dersi 25 : Parametreli Metodları Anlamak]
 
