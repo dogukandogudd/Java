@@ -35,48 +35,48 @@ You can find his studies and examples to learn the Java programming language in 
 
 [Java Dersi 23 : Mini Proje 5 - Sayı Bulma](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/findNumbers/src/findNumbers/Main.java)
 
-[Java Dersi 24 : Metodları Anlamak](#)
+[Java Dersi 24 : Metodları Anlamak]()
 
-[Java Dersi 25 : Parametreli Metodları Anlamak](#)
+[Java Dersi 25 : Parametreli Metodları Anlamak]()
 
-[Java Dersi 26 : Variable Arguments ile Çalışmak](#)
+[Java Dersi 26 : Variable Arguments ile Çalışmak]()
 
-[Java Dersi 27 : Class Nedir? - Doğru Anlamak](#)
+[Java Dersi 27 : Class Nedir? - Doğru Anlamak]()
 
-[Java Dersi 28 : Bir Class Nasıl Çalışır ?](#)
+[Java Dersi 28 : Bir Class Nasıl Çalışır ?]()
 
-[Java Dersi 29 : Çok Önemli - Değer ve Referans Tipleri Anlamak](#)
+[Java Dersi 29 : Çok Önemli - Değer ve Referans Tipleri Anlamak]()
 
-[Java Dersi 30 : ReCap Demo Classlarla Çalışmak](#)
+[Java Dersi 30 : ReCap Demo Classlarla Çalışmak]()
 
-[Java Dersi 31 : Field ve Attribute ile Çalışmak](#)
+[Java Dersi 31 : Field ve Attribute ile Çalışmak]()
 
-[Java Dersi 32 : Encapsulation İhtiyacını Anlamak](#)
+[Java Dersi 32 : Encapsulation İhtiyacını Anlamak]()
 
-[Java Dersi 33 : Getter ve Setter ile Çalışmak](#)>
+[Java Dersi 33 : Getter ve Setter ile Çalışmak]()
 
-[Java Dersi 34 : Constructor ile Çalışmak](#)
+[Java Dersi 34 : Constructor ile Çalışmak]()
 
-[Java Dersi 35 : Method Overloading ile Çalışmak](#)
+[Java Dersi 35 : Method Overloading ile Çalışmak]()
 
-[Java Dersi 36 : Inheritance Yapısını Anlamak](#)
+[Java Dersi 36 : Inheritance Yapısını Anlamak]()
 
-[Java Dersi 37 : Önemli - Inheritance Demo](#)
+[Java Dersi 37 : Önemli - Inheritance Demo]()
 
-[Java Dersi 38 : Gerçek Hayatta Polimorfizm ile Çalışmak](#)
+[Java Dersi 38 : Gerçek Hayatta Polimorfizm ile Çalışmak]()
 
-[Java Dersi 39 : Overriding Altyapısıyla Çalışmak](#)
+[Java Dersi 39 : Overriding Altyapısıyla Çalışmak]()
 
-[Java Dersi 40 : Abstract Sınıflarla Çalışmak](#)
+[Java Dersi 40 : Abstract Sınıflarla Çalışmak]()
 
-[Java Dersi 41 : Demo - Abstract Sınıfları Pekiştirmek](#)
+[Java Dersi 41 : Demo - Abstract Sınıfları Pekiştirmek]()
 
-[Java Dersi 42 : Interfaceler ile Çalışmak](#)
+[Java Dersi 42 : Interfaceler ile Çalışmak]()
 
-[Java Dersi 43 : Interface ile Polymorphism](#)
+[Java Dersi 43 : Interface ile Polymorphism]()
 
-[Java Dersi 44 : Demo : Çoklu İmplementasyonu Kavramak](#)
+[Java Dersi 44 : Demo : Çoklu İmplementasyonu Kavramak]()
 
-[Java Dersi 45 : Composition - Inner Class ve Static](#)<
+[Java Dersi 45 : Composition - Inner Class ve Static]()
 
 
