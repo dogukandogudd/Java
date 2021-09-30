@@ -2,11 +2,16 @@
 You can find his studies and examples to learn the Java programming language in this repository.
 
 [Java](#)<br>
+
 [Java](#)<br>
-[Java Dersi 9 : ReCap Demo 1 En Büyük Sayı Hangisi](#)<br>
-[Java Dersi 10 : Switch Bloklarıyla Çalışmak](#)<br>
-[Java Dersi 11 : For Döngüsüyle Çalışmak](#)<br>
-[Java Dersi 12 : While Döngüsüyle Çalışmak](#)<br>
+
+[Java Dersi 9 : ReCap Demo 1 En Büyük Sayı Hangisi](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/reCapDemo1/src/reCapDemo1/Main.java)<br>
+
+[Java Dersi 10 : Switch Bloklarıyla Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/switchDemo/src/switchDemo/Main.java)<br>
+
+[Java Dersi 11 : For Döngüsüyle Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/loopDemo/src/loopDemo/Main.java)<br>
+
+[Java Dersi 12 : While Döngüsüyle Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/loopDemo/src/loopDemo/Main.java)<br>
 
 [Java Dersi 13 : Do-While Döngüsüyle Çalışmak](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/loopDemo/src/loopDemo/Main.java)<br>
 
@@ -29,4 +34,39 @@ You can find his studies and examples to learn the Java programming language in 
 [Java Dersi 22 : Mini Proje 4 - Arkadaş Sayılar](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/friendNumbers/src/friendNumbers/Main.java)<br>
 
 [Java Dersi 23 : Mini Proje 5 - Sayı Bulma](https://github.com/dogukandogudd/Java/blob/main/Java%20Projects/findNumbers/src/findNumbers/Main.java)<br>
+
+[Java Dersi 24 : Metodları Anlamak](#)<br>
+
+[Java Dersi 25 : Parametreli Metodları Anlamak](#)<br>
+
+[Java Dersi 26 : Variable Arguments ile Çalışmak](#)<br>
+
+[Java Dersi 27 : Class Nedir? - Doğru Anlamak](#)<br>
+
+[Java Dersi 28 : Bir Class Nasıl Çalışır ?](#)<br>
+
+[Java Dersi 29 : Çok Önemli - Değer ve Referans Tipleri Anlamak](#)<br>
+
+[Java Dersi 30 : ReCap Demo Classlarla Çalışmak](#)<br>
+
+[Java Dersi 31 : Field ve Attribute ile Çalışmak](#)<br>
+
+[Java Dersi 32 : Encapsulation İhtiyacını Anlamak](#)<br>
+
+[Java Dersi 33 : Getter ve Setter ile Çalışmak](#)<br>
+
+[Java Dersi 34 : Constructor ile Çalışmak](#)<br>
+
+[Java Dersi 35 : Method Overloading ile Çalışmak](#)<br>
+[Java Dersi 36 : Inheritance Yapısını Anlamak](#)<br>
+[Java Dersi 37 : Önemli - Inheritance Demo](#)<br>
+[Java Dersi 38 : Gerçek Hayatta Polimorfizm ile Çalışmak](#)<br>
+[Java Dersi 39 : Overriding Altyapısıyla Çalışmak](#)<br>
+[Java Dersi 40 : Abstract Sınıflarla Çalışmak](#)<br>
+[Java Dersi 41 : Demo - Abstract Sınıfları Pekiştirmek](#)<br>
+[Java Dersi 42 : Interfaceler ile Çalışmak](#)<br>
+[Java Dersi 43 : Interface ile Polymorphism](#)<br>
+[Java Dersi 44 : Demo : Çoklu İmplementasyonu Kavramak](#)<br>
+[Java Dersi 45 : Composition - Inner Class ve Static](#)<br>
+
 
