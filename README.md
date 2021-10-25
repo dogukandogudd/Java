@@ -1,5 +1,11 @@
-# Java 
+## Java 
 You can find his studies and examples to learn the Java programming language in this repository.
+
+### Built With
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+### Content
 
 [Java Dersi 1 : Giriş ve Tanıtım](https://www.youtube.com/watch?v=a8Fe2qbnYDM&list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8&index=2)
 
